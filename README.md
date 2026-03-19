@@ -17,15 +17,25 @@ Repository ini merupakan aplikasi mobile berbasis **Flutter** yang menggunakan *
 
 Pastikan sudah menginstall:
 
-* Flutter SDK (disarankan versi terbaru)
+* Flutter SDK
 * Dart
 * Android Studio / VS Code
 * Emulator / Device fisik
 
-Cek instalasi dengan:
+---
+
+## 🔍 Versi yang Digunakan
+
+Project ini dikembangkan menggunakan:
+
+* **Flutter**: `3.41.4` (Stable)
+* **Dart SDK**: `3.11.1`
+* **DevTools**: `2.54.1`
+
+Cek versi di lokal dengan:
 
 ```bash
-flutter doctor
+flutter --version
 ```
 
 ---
@@ -98,14 +108,6 @@ Gunakan akun berikut untuk masuk:
 
 ---
 
-## 🛠️ Catatan
-
-* Tidak menggunakan API (offline/local database)
-* Data tersimpan langsung di perangkat
-* Cocok untuk aplikasi sederhana atau prototype
-
----
-
 ## 👨‍💻 Author
 
 **Alexander Evan**
@@ -114,6 +116,6 @@ Gunakan akun berikut untuk masuk:
 
 ## 📄 License
 
-Project ini digunakan untuk keperluan test.
+Project ini digunakan untuk keperluan test
 
 ---
